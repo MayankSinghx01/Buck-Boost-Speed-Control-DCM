@@ -1,0 +1,22 @@
+# Simulink generated files
+slprj/
+*.slxc
+
+# MATLAB temporary and backup files
+*.asv
+*.m~
+*.autosave
+
+# Simulation-generated code and build outputs
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+codegen/
+
+# Temporary logs and files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
